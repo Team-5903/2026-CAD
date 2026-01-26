@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 3302016360</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>WIN-4Q1HG28RTEB</HOST_NAME>
+        <USER>SYSTEM</USER>
+        <MACHINE_TYPE> Intel64 Family 6 Model 63 Stepping 2  GenuineIntel  2900 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <zip_manifest_info pointer="TRUE" proe_version="1633" top_model_wname="001_COMPRESSION_SPRINGS.PRT"/>
+</XML_DOCUMENT>
