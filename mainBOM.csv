@@ -1,0 +1,327 @@
+ITEM NO.,PART NUMBER,DESCRIPTION,QTY.
+1,CANcoder Top Housing.STEP,,4
+2,CANcoder PCA.STEP,,4
+3,CANcoder Screw.STEP,,4
+4,CANcoder Bottom Housing.STEP,,4
+5,Wheel, SDS, Nitrile Tread, 4in X 1.5in, Bearing Bore.STEP,,4
+6,Tread, Blue Nitrile 4in X 1.5in.STEP,,4
+7,Bevel Gear, 4515.STEP,,4
+8,Screw, 10-32 X .75, Button, 91255A269_91255A269.STEP,,24
+9,Screw, 10-32 X .5, Button, 97763A232_97763A232.STEP,,32
+10,Double Gear, 20DP, 28T, 50T.STEP,,4
+11,Double Gear, 20DP, 25T, 50T.STEP,,4
+12,Double Gear, 20DP, 27T, 50T.STEP,,4
+13,Gear, 20DP, 16T, .375Hex, 217-5451.STEP,,4
+14,Gear, 19T, 20DP, .375Hex.STEP,,4
+15,Gear, 17T, 20DP, .375Hex.STEP,,4
+16,Bevel Gear, 1545.STEP,,4
+17,Screw, .25-20 X 1 Socket, 91251A542_91251A542.STEP,,8
+18,Screw, .25-20 X .625, 91251A539_91251A539.STEP,,12
+19,Screw, Shoulder, .375 X 2.5, 5_16-18, 91259A634_91259A634.STEP,,4
+20,E Clip, .03125, 97431A310_97431A310.STEP,,4
+21,Bearing, A035XPO_SA035XPO.STEP,,4
+22,Bearing, R8ZZ.STEP,,4
+23,Bearing, R6ZZ.STEP,,4
+24,Bearing, 688.STEP,,16
+25,Bearing, 6802.STEP,,16
+26,Wheel Mount B Gen2.STEP,,4
+27,Wheel Mount A.STEP,,4
+28,MK4 Wheel Spacer.STEP,,4
+29,Shim, 8mm ID X 14mm OD X .5mm Thick, 98055A115_98055A115.STEP,,8
+30,MK3 Center Column.STEP,,4
+31,magnet.STEP,,4
+32,MK4 Intermediate Shaft V3.STEP,,4
+33,MK3 Base Pulley V3.STEP,,4
+34,Screw, 10-32 X .25, Button, 91255A261_91255A261.STEP,,20
+35,Screw, 10-32 X 1.5, 91251A351_91251A351.STEP,,24
+36,Screw, 10-32 X 2.25, 91251A354_91251A354.STEP,,12
+37,Screw, 8-32 X .875, Button, 91255A166_91255A166.STEP,,12
+38,Bearing, R188ZZ.STEP,,4
+39,Gear, 50T, 20DP, .375Hex.STEP,,8
+40,MK4i Steering Shaft Tall.STEP,,4
+41,MK4i Steering Shaft Spacer.STEP,,4
+42,MK4i Shaft, Drive Idler.STEP,,4
+43,Screw, 3-48 X .1875, Pan Phillips, 90272A091_90272A091.STEP,,8
+44,Motor, NEO.STEP,,8
+45,Gear, 20DP, 14T, 8mm REV1.STEP,,8
+46,Retaining Ring, 8mm, 98430A132_98430A132.STEP,,8
+47,Spacer, 8mmID X .437 OD X 0.437 L.STEP,,4
+48,Machine Key, 2 X 2 X 12mm.STEP,,8
+49,Belt, 320-5M-15.STEP,,4
+50,MK4i Master Part V2_NEO Config.STEP,,4
+51,SideRail,,2
+52,BackRail,,2
+53,BellyPan,,1
+54,BackHorizontalSupportDiet,,1
+55,SideHorizontalSupportDiet,,2
+56,BackVerticalSupportDiet,,2
+57,FrontHorizontalSupport,,2
+58,FrontVerticalSupport,,2
+59,ClimberGearboxSupportDiet,,1
+60,ClimberSideSupport,,1
+61,ClimberMountSupport,,2
+62,FrontHorizontalSupportDiet,,1
+63,REV-21-2860.step,,2
+64,am-2986 FR8ZZ Hex Bearing.step,,83
+65,TopBarSupport,,4
+66,REV-21-2712.step,,8
+67,REV-21-3293.step,,20
+68,ExpandingHopperRailBottomDiet,,8
+69,Camera,,3
+70,CameraMount (1),,3
+71,FrontVertical,,2
+72,ExppandingHopperSupportCornerPiece,,1
+73,ExpandingHopperShaft,,4
+74,ExpandingHopperRoller,,4
+75,ExppandingHopperCornerPiece,,16
+76,ExppandingHopperRail,,2
+77,ExppandingHopperRailBottom,,2
+78,ExpandingHopperSide,,2
+79,ExpandingHopperFront,,1
+80,MainSupportNonMAX,,2
+81,REV-21-2350.step,,3
+82,REV-21-2104.step,,4
+83,REV-21-2103.step,,4
+84,REV-21-2106.step,,4
+85,REV-21-1650-V1.1.step,,5
+86,REV-21-2120.step,,2
+87,REV-21-2361.step,,11
+88,WCP-0560.step,,5
+89,REV-21-2012.step,,2
+90,IntermediateJackShaft,,2
+91,am-1238a 500Hex Collar Clamp Body_7.STEP,,56
+92,10-32x0500_shcs_HX-SHCS 0.19-32x1.375x1-C_7.STEP,,56
+93,HopperShaft,,4
+94,ShooterSupport,,1
+95,IntakeJackShaft,,1
+96,92511A108,Aluminum Unthreaded Spacer,1
+97,TopSideRail,,2
+98,ShooterBottomSide,,2
+99,ShooterTopSide,,2
+100,ShooterSlipPlate,,2
+101,ShooterBackTop,,2
+102,ShooterBackBottom,,3
+103,ShooterGearPlate,,1
+104,am-5133 28T 20DP 500hex 375 FW.step,,1
+105,am-3535 25T 20DP 500hex 375 FW Gear.step,,3
+106,ShooterGearboxStandoff,,5
+107,LJ Housing V2.STEP,,1
+108,am-3772 1.25, 20T, 500 Hex Bore.step,,2
+109,am-XXXX - 57 Sport 500 Hex Shaft.STEP,,2
+110,Output Block.STEP,,2
+111,FR8ZZ Bearing_1.STEP,,2
+112,retaining Ring 0500 - Mcm 98410A122_98410A122_1.STEP,,1
+113,am-XXXX - 57 Sport Shaft Carrier Plate_1.STEP,,1
+114,16T Planet Gear_1.STEP,,4
+115,am-XXXX - 57 Sport 1 Stage Ring Gear Housing_1.STEP,,1
+116,am-3765 - 57 Sport Motor Block_1.STEP,,1
+117,10-32 x 1.750 SHCS_90128A953_1.STEP,,2
+118,Thrust washer - 775 Sport_1.STEP,,1
+119,am-3787 - Sport Face Mount Spacer.step,,2
+120,REV-21-1651.step,,1
+121,ShooterAngleShaft,,1
+122,HoodAngleGear,,2
+123,ISDF-05-D-M_b_1.STEP,,3
+124,SFSX-RL_1.STEP,,6
+125,TFM-105-02-L-DH_pins_1.STEP,,3
+126,TFM-105-02-L-DH_terminal_1.STEP,,3
+127,USB4110-GF-A_PART1_1.STEP,,3
+128,REV-11-2159-P01_1.STEP,,3
+129,REV-11-2159-P11_1.STEP,,9
+130,REV-11-2159-P02_1.STEP,,3
+131,REV-11-2159-P04_95893A164_1.STEP,,6
+132,0.8BTB male 7.5H 2X10P--No side positioning plate_1.STEP,,3
+133,EVQP7-JA-01P_1.STEP,,3
+134,REV-11-2159-P09_92832A108_1.STEP,,24
+135,REV-21-1652-P13_1.STEP,,3
+136,REV-21-1652-P12_1.STEP,,9
+137,REV-21-1652-P02_1.STEP,,3
+138,REV-21-1652-P08_1.STEP,,3
+139,Screw_M3x5mm_91294A125_Flat_Head_91294A125_1.STEP,,18
+140,97145A104_Single-Turn Spiral External Retaining Ring_97145A104_1.STEP,,3
+141,REV-21-1652-P01_1.STEP,,3
+142,Bearing_17mmID_30mmOD_6656K196_6656K196_1.STEP,,3
+143,0.8BTB female 9.0H 2X10P - With side positioning plate_1.STEP,,3
+144,REV-21-1652-P10_1.STEP,,3
+145,REV-21-3204_1.STEP,,12
+146,4IN Compliant Wheel FINAL Overmold.STEP,,1
+147,2in Wheel Intergrated 0500 HEX Hub.STEP,,1
+148,ShooterMainShaft,,1
+149,ShooterHoodBackTop,,1
+150,ShooterTopShaft,,1
+151,am-3462 2IN Molded 500Hex Compliant Wheel REV2.step,,4
+152,REV-21-2016.step,,2
+153,ShooterGearboxShaft,,1
+154,ShooterMount,,4
+155,ShooterBaseTop,,1
+156,idler2.STEP,,1
+157,bearing, 8x16x5, model.STEP,,2
+158,98306A220_STEEL CLEVIS PIN_98306A220.STEP,,1
+159,98335A054_Zinc-Plated 1050-1095 Spring Steel Cotter Pins.STEP,,1
+160,91124A170_SPRING STEEL SHIM FOR SHORTENING SCREW SHLDRS_91124A170.STEP,,3
+161,gear4of4.STEP,,1
+162,7804K147_STAINLESS STEEL BALL BEARING_7804K147.STEP,,2
+163,Spacer, AS44-16-12.STEP,,1
+164,SDP_a_6a25m022df1508.STEP,,1
+165,92905A114_ALLOY STEEL EXTENDED POINT SET SCREW_92905A114.STEP,,1
+166,PULLEY SET SCREW_92905A114.STEP,,1
+167,MF83ZZ, 3x8x2,5mm bearing.STEP,,2
+168,gear2of4.STEP,,1
+169,3x20mm aliexpress shaft_91595A122.STEP,,1
+170,5360N118_Steel Mil. Spec. Washers.STEP,,4
+171,gear3of4 std.STEP,,1
+172,Flange Bearing, 4x10x4, MF104ZZ, 7804K129_STAINLESS STEEL BALL BEARING-1_7804K129.STEP,,2
+173,aliexpress 4x40mm pin.STEP,,1
+174,worm, 0.5mm, 4mm bore.STEP,,1
+175,98032A436_Cadmium-Plated Steel Mil. Spec. Washer.STEP,,3
+176,00-H.STEP,,1
+177,00-T-180.STEP,,1
+178,SSOP16_plastic.STEP,,1
+179,SSOP16_pins.STEP,,2
+180,A0085-0021 - Absolute Encoder PCB.STEP,,1
+181,20021444-00010XXLFc.STEP,,1
+182,IDC cable 3.STEP,,1
+183,901471103.STEP,,1
+184,PH2RA-12-UA.STEP,,1
+185,encoder housing.STEP,,1
+186,Armabot_A0073_Flange_Bearing_15-24-5mm.STEP,,1
+187,91290A111_BLACK-OXIDE CLASS 12.9 SOCKET HEAD CAP SCREW_91290A111.STEP,,1
+188,magnet, 5x5mm aliexpress.STEP,,1
+189,40 tooth worm gear.STEP,,1
+190,90633A411_LOW-STRENGTH STEEL THIN NYLON-INSERT LOCKNUT_90633A411.STEP,,13
+191,AS38-10-36_ALUM UNTHRD SPACER_92511A040.STEP,,2
+192,91255A278_Button Head Hex Drive Screw.STEP,,2
+193,217-4347-STEP-20141030 measured and updated.STEP,,1
+194,gear1of4.STEP,,1
+195,91290A144_BLACK-OXIDE CLASS 12.9 SOCKET HEAD CAP SCREW_91290A144.STEP,,2
+196,97763A342_18-8 SS BUTTON HEAD HEX DRIVE SCREWS_97763A342.STEP,,9
+197,Spacer, AS31-10-80.STEP,,12
+198,A0064-0110 - Bearing.STEP,,1
+199,A0085-0004test2 - Base Plate 1.STEP,,2
+200,HTD 1270-5M Timing Belt Replacement 254Teeth.STEP,,1
+201,A0085-0001, Pulley Segment.STEP,,12
+202,ShooterBaseBottom,,1
+203,ShooterBaseTube,,1
+204,NewGearboxMount,,2
+205,ShooterGearboxSpacer,,3
+206,REV-21-2108.step,,3
+207,WCP-0562.step,,1
+208,TurretShaft,,1
+209,30125T101,,1
+210,SlipSpacer,,4
+211,ShooterHoodBackBottom,,1
+212,ShooterGearboxSupport,,1
+213,PullyPlate,,22
+214,VerticalBeltShaft,,11
+215,am-3403 24 tooth HTD pulley half 500hex.step,,64
+216,am-3404 24 tooth HTD pulley extender REV2.step,,11
+217,ElevatorDiagonal,,1
+218,REV-21-2299.step,,12
+219,BackBarNew,,1
+220,BackBarNewTop,,1
+221,FrontBarNewTop,,1
+222,ElevatorFrontDiagonal,,1
+223,DiagonalSideRail,,1
+224,DiagonalRightSideRail,,1
+225,CrossSupport,,1
+226,SideBarMAX,,1
+227,am-3487 40T 20DP 500hex 375 FW.step,,2
+228,SideBar,,2
+229,AnglePlateHole,,3
+230,JoinerBeltShaft,,1
+231,JoinerBeltShaftFront,,1
+232,JoinerBeltShaftCenter,,1
+233,CornerJoiner,,8
+234,REV-21-2295 (1).step,,8
+235,SideVertical,,1
+236,FrontBottomBar,,1
+237,REV-21-3613.step,,9
+238,FrontCornerRail,,2
+239,SideCornerRail,,2
+240,Bumper,,1
+241,REV-21-2014.step,,3
+242,Upright,,2
+243,Bar,,1
+244,ClimberMountPlate,,2
+245,6383K38,Ball Bearing,12
+246,94639A259,,24
+247,ClimberGearboxPlateDiet,,1
+248,FR8ZZ Bearing.STEP,,2
+249,retaining Ring 0500 - Mcm 98410A122_98410A122.STEP,,1
+250,4_1 HD Output Stage Carrier Plate.STEP,,1
+251,16T Long Planet Gear.STEP,,4
+252,am-XXXX - 57 Sport Stage Carrier Plate.STEP,,2
+253,16T Long Sun Gear.STEP,,2
+254,16T Planet Gear.STEP,,8
+255,16T Sun Gear.STEP,,1
+256,am-XXXX - 57 Sport 3 Stage Ring Gear Housing.STEP,,1
+257,Thrust washer - 775 Sport.STEP,,1
+258,Cim Sport Motor Block.STEP,,1
+259,am-4790 14T 35 Chain 500in Hex Symmetrical.step,,1
+260,44705K545,Aluminum Unthreaded Butt-Weld Flange,1
+261,9056K339,Multipurpose 6061 Aluminum Round Tube,1
+262,7767T247,Low-Carbon Steel Round Tube,1
+263,7392T291,Multipurpose 6061 Aluminum Round Tube,1
+264,7392T291,Multipurpose 6061 Aluminum Round Tube,2
+265,92510A789,,4
+266,TubeJoiner,,1
+267,BarAligner,,1
+268,91255A589,,3
+269,91257A604,,6
+270,92825A213,,12
+271,8258K26,Sealed Precision Needle-Roller Bearing,1
+272,9056K373,,1
+273,ClimberGearDiet,,1
+274,9056K175,,1
+275,ClimberShaftEndSupport,,1
+276,ClimberShaftGearboxSupport,,1
+277,ClimberShaftRemainderSupport,,1
+278,ClimberShaftSupport,,4
+279,ClimberShaftCenterer,,1
+280,Battery.step,,1
+281,am-3959 AM14U Family Vertical Battery Mount Bottom Plate.step,,1
+282,am-3958 AM14U Family Vertical Battery Mount C Plate.step,,1
+283,SupportBar,,2
+284,BackShaft,,2
+285,MiddleShaft,,2
+286,FrontShaft,,4
+287,REV-21-2589.step,,54
+288,BackBottomRail,,1
+289,VerticalTopShaftSupport,,1
+290,am-3772 1.25, 20T, 500 Hex Bore (1).step,,4
+291,BottomBeltShaft,,1
+292,WCP-2438.step,,2
+293,WCP-2437.step,,2
+294,TopRail,,1
+295,ElevatorMountBar,,1
+296,TopShaft,,1
+297,TopBeltShaft,,1
+298,VerticalShaft,,1
+299,TopRollerMAX,,1
+300,am-4541 Sushi Roller 500 Hex Bore.step,,4
+301,BottomRollerMAX,,1
+302,BottomRollerRightSmallMAX,,1
+303,BottomRollerRightMAX,,4
+304,BottomRollerMiddleMAX,,9
+305,BottomRollerLeftMAX,,4
+306,BatterySupport,,4
+307,BatterySupportBack,,2
+308,BarShaft,,1
+309,BottomRollerRightMAXBarRight,,1
+310,BottomRollerMAXBarLeft,,2
+311,BottomRollerMAXBar,,2
+312,IntakeShaft,,1
+313,BottomRollerRightMAXIntake,,1
+314,REV-21-2328.step,,1
+315,REV-21-2037.step,,4
+316,MainBar,,2
+317,BashBar,,1
+318,VerticalBar,,2
+319,am-3945 3IN 500Hex Compliant Wheel REV 3.step,,10
+320,IntakeBackingShaft,,4
+321,IntakeMainShaft,,2
+322,MotorMount,,1
+323,IntakeMotorShaft,,1
+324,UpperRollerMAX,,1
+325,IntakePivotShaft,,2
+326,Fuel,,1
